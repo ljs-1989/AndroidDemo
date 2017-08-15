@@ -1,1 +1,1 @@
-include ':app'
+include ':AnimationsDemo', ':RetrofitAndRXJava', ':NDKDemo', ':ContentProvideDemo', ':AIDLDemo', ':MessageTestClient2', ':MessageTestClient1', ':ServiceConnectionDemo', ':AnnotationDemo', ':socketdemo'

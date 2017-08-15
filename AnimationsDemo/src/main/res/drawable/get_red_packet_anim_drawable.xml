@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+    <item android:drawable="@mipmap/red_packet_action1" android:duration="50"/>
+    <item android:drawable="@mipmap/red_packet_action2" android:duration="50"/>
+    <item android:drawable="@mipmap/red_packet_action3" android:duration="50"/>
+    <item android:drawable="@mipmap/red_packet_action4" android:duration="50"/>
+    <item android:drawable="@mipmap/red_packet_action5" android:duration="50"/>
+    <item android:drawable="@mipmap/red_packet_action6" android:duration="50"/>
+    <item android:drawable="@mipmap/red_packet_action7" android:duration="50"/>
+    <item android:drawable="@mipmap/red_packet_action8" android:duration="50"/>
+    <item android:drawable="@mipmap/red_packet_action9" android:duration="50"/>
+    <item android:drawable="@mipmap/red_packet_action10"  android:duration="50" />
+</animation-list>
